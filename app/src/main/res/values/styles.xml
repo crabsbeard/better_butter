@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="BetterButterTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="padding_user">
+        <item name="android:paddingStart">@dimen/padding_user</item>
+        <item name="android:paddingLeft">@dimen/padding_user</item>
+        <item name="android:paddingEnd">@dimen/padding_user</item>
+        <item name="android:paddingRight">@dimen/padding_user</item>
+
+    </style>
+
+    <style name="padding_user_2">
+        <item name="android:paddingStart">@dimen/padding_user_2</item>
+        <item name="android:paddingLeft">@dimen/padding_user_2</item>
+        <item name="android:paddingEnd">@dimen/padding_user_2</item>
+        <item name="android:paddingRight">@dimen/padding_user_2</item>
+
+    </style>
+
+
+</resources>

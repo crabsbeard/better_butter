@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Better Butter</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_name_placeholder">Anushka</string>
+    <string name="time_placeholder">Updated 13 hours ago</string>
+    <string name="desc_placeholder">Indulge your sweet tooth...</string>
+    <string name="recipeName_placeholder">Eggless Chocolate Cake</string>
+    <string name="feed_title">FEED</string>
+    <string name="action_search">Search</string>
+    <string name="coder">Made By\nAditya Narayan</string>
+</resources>
